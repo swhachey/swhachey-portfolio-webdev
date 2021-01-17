@@ -1,5 +1,17 @@
 body {
   background-image: url(https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/36980981_1770562663051601_3593745921365508096_o.jpg?_nc_cat=110&ccb=2&_nc_sid=e3f864&_nc_ohc=SOKj3_yzcNwAX_4-aMJ&_nc_ht=scontent.fapa1-1.fna&oh=b4f16c648178657a7b8e6054b6c5b396&oe=602807E8);
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-size: cover;
+}
+.nav-item,
+h2,
+.card-text,
+label {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-brand,
+h1,
+.card-title,
+legend {
+  font-family: "Voltaire", sans-serif;
 }
