@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/36980981_1770562663051601_3593745921365508096_o.jpg?_nc_cat=110&ccb=2&_nc_sid=e3f864&_nc_ohc=SOKj3_yzcNwAX_4-aMJ&_nc_ht=scontent.fapa1-1.fna&oh=b4f16c648178657a7b8e6054b6c5b396&oe=602807E8);
+  background-image: url(./assets/starlight_rancho.jpg);
   background-repeat: repeat-y;
   background-size: cover;
 }
@@ -21,10 +21,14 @@ legend {
   bottom: 0;
   width: 100%;
   text-align: center;
+  filter: drop-shadow(30px 10px 4px #4444dd);
 }
 .marginL {
   margin-left: 65%;
 }
 #emailHelp {
   color: white;
+}
+.card {
+  filter: drop-shadow(7px 5px 2px #4444dd);
 }
